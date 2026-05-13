@@ -1,7 +1,11 @@
-# <br>▎Digital Twin Engineer, Full-Stack Developer<br>▎Yuansheng Lin
+# <br>▎Digital Twin Engineer, Computational Designer<br>▎Yuansheng Lin
+
+> Bridging the physical and digital world through parametric design, real-time simulation, and interactive systems.
 
 ![Yuansheng's GitHub stats](https://github-readme-stats-livid-theta.vercel.app/api?username=Yuansheng111&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats-livid-theta.vercel.app/api/top-langs/?username=Yuansheng111&layout=compact&theme=material-palenight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yuansheng111&theme=material-palenight&hide_border=true)
 
 ## ▎🛠 Tech Stacks
 
@@ -38,6 +42,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## ▎🧑‍💻 Contact
-**Email** : lin555393@gmail.com </br>
-**Medium** : https://medium.com/@yuansheng_lin
+## ▎📬 Contact
+
+[![Gmail](https://img.shields.io/badge/lin555393@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lin555393@gmail.com)
+[![Medium](https://img.shields.io/badge/@yuansheng__lin-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yuansheng_lin)
